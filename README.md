@@ -2,7 +2,7 @@
 
 Builds the **java-17-openjdk-17.0.4.1.1-2.el7** rpms for Centos 7 systems
 
-This was done by modifying the ```java-17-openjdk``` Rocky Linux 8 SRPM to make it compatible for Centos 7 systems.
+This was done by modifying the ```java-17-openjdk``` Rocky Linux 8 SRPM to make it compatible with Centos 7 systems.
 
 **Fedora package install**
 ```
